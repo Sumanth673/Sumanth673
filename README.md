@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sumanth</h1>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanth673&label=Profile%20views&color=0e75b6&style=flat" alt="sumanth673" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">                                         
+                                         
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+                             🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+
+   <img align="centre" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 📫 How to reach me **@sumanth.talasila26@gmail.com**
 
