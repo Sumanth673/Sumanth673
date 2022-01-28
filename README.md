@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanth673&label=Profile%20views&color=0e75b6&style=flat" alt="sumanth673" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">                                         
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">                                         
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
