@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumanth673&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sumanth673" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanth673&theme=radical" alt="Sumanth673" />
+  
 </p>
 
 
