@@ -13,7 +13,7 @@
 🤝 Leadership experience as Convenor, SRM Directorate of Student Affairs  
 🌍 Traveler | 🏕️ Trekker | 📚 Lifelong Learner  
 
----
+
 
 ## 🚀 My Journey
 
@@ -22,14 +22,14 @@
 🚀 Passionate about building reliable, high-performance systems  
 💡 Focused on solving real-world problems using AI, data, and system design  
 
----
+
 
 ## 🎯 Hobbies & Interests
 
 🏕️ Trekking & Travel | 🎵 Music Enthusiast | 🎬 Movies & Exploration  
 🌍 Enjoy meeting new people and learning from diverse experiences  
 
----
+
 
 ## ⚙️ How I Work
 
@@ -37,7 +37,7 @@
 🤝 Strong collaborator with adaptability in team environments  
 📈 Focused on continuous improvement and delivering meaningful impact  
 
----
+
 
 ## 🌐 Let’s Connect!
 
@@ -52,7 +52,7 @@
 <a href="https://www.hackerrank.com/profile/RA2111026010239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumanth_239" height="30" width="40" /></a>
 </p>
 
----
+
 
 
 <p align="center">
