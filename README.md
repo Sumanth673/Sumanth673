@@ -6,18 +6,20 @@
 
 ## About Me 
 
-🌍 Recent **CSE Graduate (AI & ML)** from SRMIST  
-🚀 Experienced in **Machine Learning, Deep Learning, NLP, Computer Vision, and Big Data Analytics**  
-☁️ Hands-on with **AWS (EC2, S3, SageMaker), CI/CD pipelines, SQL, and APIs**  
-📚 Strong foundation in **Python, C++, Big Data Analytics, and ML algorithms**  
-🤝 Proven collaborator with leadership experience as **Convenor, SRM Directorate of Student Affairs**  
-✈️ Passionate **Traveler** | 🥾 Enthusiastic **Trekker** | 🌍 Lifelong **Learner**  
+🌍 Recent CSE Graduate (AI & ML) from SRMIST
+🚀 Experience in AI-powered automation, Machine Learning, NLP, Computer Vision, and Data Analytics
+⚙️ Built scalable automation systems at Ryan, LLC, working on web data extraction, document processing, and validation pipelines
+☁️ Hands-on with AWS (EC2, S3), CI/CD pipelines, SQL, APIs, and LLM integration
+📊 Strong foundation in Python, Data Analytics, and ML algorithms
+🤝 Proven collaborator with leadership experience as Convenor, SRM Directorate of Student Affairs
+🌍 Traveler | 🏕️ Trekker | 📚 Lifelong Learner 
 
 
 ## My Journey  
-📊 Built ML models for **classification, prediction, and anomaly detection**    
-📈 Passionate about applying AI to **Built Scalable AI & Backend Systems**  
-🌟 Open to roles in **Software Engineering, ML Engineer, AI/ML**  
+📊 Built ML models for classification, prediction, and anomaly detection
+⚙️ Designed AI-powered automation systems for data extraction, validation, and scalable workflow optimization at Ryan, LLC
+🚀 Passionate about building AI-driven automation and scalable backend systems
+💡 Focused on solving real-world problems using AI, data, and system design
 
 ## Hobbies & Interests  
 🥾 Trekking & Travel  |🎵  Music Enthusiast | 🎬 Movies & Exploration    
